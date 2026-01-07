@@ -36,7 +36,7 @@ To understand how consumer interest in apparel categories evolves over time and 
 
 ## Files in This Repository
 - `Shopping analysis.pbix` – Power BI dashboard file  
-- `Apparel Search Interest ans Sesonality analysis.pdf` – project documentation  
+- `Apparel Search Interest and Sesonality Analysis.pdf` – project documentation  
 
 ## Author
 **Gargi Pathak**  
